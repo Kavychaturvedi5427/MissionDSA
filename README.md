@@ -1,2 +1,2 @@
 # MissionDSA
-This repo includes codes of all the solution which are discussed with in the class.
+This repo includes code for all the questions which are discussed in the class.
